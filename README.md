@@ -5,6 +5,6 @@ A web developer who prioritizes precision and clean code. <br> Specializing in c
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,bootstrap,express,bash,linux,mysql,nodejs,npm,ps," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,bootstrap,express,bash,linux,mysql,nodejs,npm,ps"/>
   </a>
 </p>
